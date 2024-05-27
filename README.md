@@ -2,7 +2,7 @@
 keylogger
 
 # Project Overview
-Under the Internship program with Prodigy this project is being Completed
+Under the Internship program with Skillraace this project is being Completed
 
 # Task Description
 A python program that capture all the key strokes and save in a text file 
@@ -17,8 +17,8 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 ```
 # Example installation steps
-git clone https://github.com/KartikeyanTomar/PRODIGY_CS_04.git
-cd PRODIGY_CS_04
+git clone https://github.com/KartikeyanTomar/SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_KEYLOGGER-SOFTWARE_SKILLRAACE.git
+cd SKCSI-116_SKILLRAACE-INTERNSHIP-TASKS_KEYLOGGER-SOFTWARE_SKILLRAACE
 python keylogger.py
 ```
 
